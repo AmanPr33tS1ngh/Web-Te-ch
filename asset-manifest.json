@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Web-Te-ch/static/css/main.97915fb5.css",
+    "main.js": "/Web-Te-ch/static/js/main.9e5294da.js",
+    "static/js/787.b488c065.chunk.js": "/Web-Te-ch/static/js/787.b488c065.chunk.js",
+    "static/media/instagram.png": "/Web-Te-ch/static/media/instagram.8af4ff6331d9e595b5ca.png",
+    "static/media/facebook1.png": "/Web-Te-ch/static/media/facebook1.83310ea96f7634598065.png",
+    "static/media/twitter.png": "/Web-Te-ch/static/media/twitter.66e70c66d46796c48666.png",
+    "static/media/onlineTeaching.png": "/Web-Te-ch/static/media/onlineTeaching.ae7bc7fdebe208a6a3da.png",
+    "static/media/availOffer.png": "/Web-Te-ch/static/media/availOffer.0061577323cb0d209306.png",
+    "static/media/datastructures.jpg": "/Web-Te-ch/static/media/datastructures.9e300265f5d5cf310046.jpg",
+    "index.html": "/Web-Te-ch/index.html",
+    "main.97915fb5.css.map": "/Web-Te-ch/static/css/main.97915fb5.css.map",
+    "main.9e5294da.js.map": "/Web-Te-ch/static/js/main.9e5294da.js.map",
+    "787.b488c065.chunk.js.map": "/Web-Te-ch/static/js/787.b488c065.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97915fb5.css",
+    "static/js/main.9e5294da.js"
+  ]
+}
