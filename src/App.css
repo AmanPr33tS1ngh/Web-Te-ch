@@ -423,3 +423,9 @@ li {
     display: none;
   }
 }
+@media (max-width:447px) {
+  
+  .samsung{
+    display: none;
+  }
+}
